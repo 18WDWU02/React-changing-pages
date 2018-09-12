@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: auto;
+  padding: 20px;
+  color: white;
+}
+
+.alt-header{
+    background-color: red;
+    height: auto;
+    padding: 20px;
+    color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+
+.button{
+    background-color: blue;
+    color: white;
+    padding: 1em;
+    border: 1px solid black;
+}
